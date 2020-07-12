@@ -1,0 +1,1 @@
+A responsive landing page made with Bootstrap 3.
